@@ -49,9 +49,12 @@
       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img title="typeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <a href="https://https://www.java.com/es//" target="_blank" rel="noreferrer">
+        <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="typescript" width="40" height="40"/>
       </a>
+      <a href="https://###/" target="_blank" rel="noreferrer">
+        <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+      
     </td>
   </tr>
   <tr>
@@ -66,6 +69,9 @@
   </tr>
   <tr>
     <td>Framewoks:</td>
+          <a href="https://www.mongodb.com/es/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-cl_ps-all_desktop_es-la_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=20751878828&adgroup=156970816922&cq_cmp=20751878828&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADphHJB2vNJgvF5ClEpOMP_Mm1qTxuhLliZqIvUfA7ebRKxtKg5nX0AaAnDGEALw_wcB" target="_blank" rel="noreferrer">
+        <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"     alt="MongoDB" width="40" height="40"/>
+      </a>
     <td>
     </td>
   </tr>
