@@ -1,41 +1,41 @@
-<h1 align="center">🚀Juan Ramirez 💻</h1>
+<h1 align="center">🚀Manuel Bahamondez 💻</h1>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Desarrollo+Web+FrontEnd;Aprendiendo+nuevas+cosas" alt="Typing SVG" /></a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanRCoder&label=Profile%20views&color=0e75b6&style=flat" alt="juanRCoder" /> 
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4E03AQGD0XJtB4SVmg/profile-displayphoto-shrink_200_200/0/1674830636885?e=2147483647&v=beta&t=VLz3feDjYA03gst0NlaocJzoi_JZxpvXc5cCiwPO1ro" alt="kuroz00" /> 
 </p>
 
 
 ## 🧑 Acerca de mi:
-<p>Hola, soy Juan Ramirez, me encanta crear cosas nuevas, innovadoras y eficientes para el disfrute de la sociedad. Mis hobbies son dibujar de manera tradicional, escribir minihistorias, escuchar J-pop y jugar juegos móviles. Intento ser ordenado siempre, en casa, en mi lugar de trabajo y en mi vida personal. Trato de avanzar y aprender o repasar algo nuevo cada día.</p>
+<p>Mucho gusto, soy Manuel Bahamondez. Estudiante de programacion.</p>
 
 
-- 📚 &nbsp; Soy estudiante de Full Stack Developer en Holberton School..
-- 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software y hacks rápidos.
-- 🌱 &nbsp; Aprender sobre nuevos idiomas y nuevas tecnologías.
-- 🔭 &nbsp; Actualmente estoy disponible para cualquier oferta de trabajo dedicada al desarrollo web.
+- 📚 &nbsp; Soy estudiante de Analisis en sistemas informaticos en la universidad estatal de Punta arenas, Umag ..
+- 🤔 &nbsp; Constante formacion profesional y autodidacta en torno a la programacion.
+- 🌱 &nbsp; Crecimiento constante, vengo de no saber nada a destacar con buenas notas universitarias y planeo seguir estudiando en todo momento (Evidentemente el trabajo primero).
+- 🔭 &nbsp; Actualmente me encuentro en busquedad de oportunidades laborales y de desarrollo profesional.
 
 
 ## 📞 Contactame:
 <div align="center">
-<a href="https://www.facebook.com/guillermo.montalvanramirez" target="_blank" rel="noopener noreferrer">
+<a href="https://web.facebook.com/xewez00/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://twitter.com/yuan22rm" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/kuroz53630700" target="_blank" rel="noopener noreferrer">
   <img title="twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/juan-ramirez-490b84271/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/manuel-bahamondez-32950a256/" target="_blank" rel="noopener noreferrer">
   <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/+51956402456" target="_blank" rel="noopener noreferrer">
+<a href="https://wa.me/+56945099312" target="_blank" rel="noopener noreferrer">
   <img title="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/juanrcoder/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/kur_0s/" target="_blank" rel="noopener noreferrer">
   <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://juanramirez-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="###" target="_blank" rel="noopener noreferrer">
   <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
@@ -44,7 +44,7 @@
 ## 🛠️ Habilidades:
 <table>
   <tr>
-    <td>Lenguajes de programación:</td>
+    <td>Lenguajes de programación:</td>  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////-->
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img title="javaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
