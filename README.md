@@ -46,8 +46,8 @@
   <tr>
     <td>Lenguajes de programación:</td>  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////-->
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img title="javaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img title="typeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
