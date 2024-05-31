@@ -54,7 +54,6 @@
       </a>
       <a href="https://###/" target="_blank" rel="noreferrer">
         <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-      
     </td>
   </tr>
   <tr>
