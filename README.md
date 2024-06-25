@@ -14,7 +14,7 @@
 
 - 📚 &nbsp; Soy estudiante de Analisis en sistemas informaticos en la universidad estatal de Punta arenas, Umag ..
 - 🤔 &nbsp; Constante formacion profesional y autodidacta en torno a la programacion.
-- 🌱 &nbsp; Crecimiento constante, vengo de no saber nada a destacar con buenas notas universitarias y planeo seguir estudiando en todo momento (Evidentemente el trabajo primero).
+- 🌱 &nbsp; Tengo buen desempeño academico y planeo acompañarlo con experiencia laboral de la NASA
 - 🔭 &nbsp; Actualmente me encuentro en busquedad de oportunidades laborales y de desarrollo profesional.
 
 
