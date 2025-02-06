@@ -75,8 +75,6 @@
          <a href="https://spring.io/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
         </a>
-      </td>
-       <td> 
          <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
         </a>
