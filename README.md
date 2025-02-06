@@ -1,110 +1,66 @@
-<h1 align="center">🚀Manuel Bahamondez 💻</h1>
+<h1 align="center">👨‍💻 Manuel Bahamondez | Desarrollador Web & Data Analyst</h1>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Desarrollo+Web;Aprendiendo+constantemente;Data+Analyst" alt="Typing SVG" /></a>
-</h1>
-
-<!-- <p align="left"> <img src="https://media.licdn.com/dms/image/D4E03AQGD0XJtB4SVmg/profile-displayphoto-shrink_200_200/0/1674830636885?e=2147483647&v=beta&t=VLz3feDjYA03gst0NlaocJzoi_JZxpvXc5cCiwPO1ro" alt="kuroz00" /> 
-</p> --> 
-
-
-## 🧑 Acerca de mi:
-<p>Mucho gusto, soy Manuel Bahamondez.</p>
-
-
-- 📚 &nbsp; Soy estudiante de Analisis en sistemas informaticos en la universidad estatal de Punta arenas, Umag ..
-- 🤔 &nbsp; Constante formacion profesional y autodidacta en torno a la programacion.
-- 🌱 &nbsp; Tengo buen desempeño academico y planeo acompañarlo con experiencia laboral.
-- 🔭 &nbsp; Actualmente me encuentro en busquedad de oportunidades laborales y de desarrollo profesional.
-
-
-## 📞 Contactame:
 <div align="center">
-<!-- 
-<a href="https://web.facebook.com/xewez00/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://x.com/kuroz53630700" target="_blank" rel="noopener noreferrer">
-  <img title="twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>   -->
-<a href="https://www.linkedin.com/in/manuel-bahamondez-32950a256/" target="_blank" rel="noopener noreferrer">
-  <img title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/+56945099312" target="_blank" rel="noopener noreferrer">
-  <img title="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-</a>
-  <!-- 
-<a href="https://www.instagram.com/kur_0s/" target="_blank" rel="noopener noreferrer">
-  <img title="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-  -->
-<a href="###" target="_blank" rel="noopener noreferrer">
-  <img title="portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EC227&center=true&vCenter=true&width=435&lines=Desarrollo+Web;Aprendizaje+Continuo;Data+Analysis" alt="Typing SVG" />
+  </a>
 </div>
 
+## 👋 Acerca de mí
 
-## 🛠️ Habilidades:
-<table>
-  <tr>
-    <td>Lenguajes de programación:</td>  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-    <td>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      </a>
-      <a href="https://https://www.java.com/es//" target="_blank" rel="noreferrer">
-        <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="typescript" width="40" height="40"/>
-      </a>
-      <a href="https://###/" target="_blank" rel="noreferrer">
-        <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    
-  <tr>
-    <td>Bases de datos:</td>
-    <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img title="mySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Framewoks:</td>
-       <td> 
-         <a href="https://spring.io/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-        </a>
-         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-        </a>
-      </td>          
-  </tr>
- 
-  <tr>
-    <td>DevOps:</td>
-    <td>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img title="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Otros:</td>
-    <td>
-       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-      <a href="https://code.visualstudio.com/">
-        <img title="Visual Studio Code" alt="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
+¡Hola! Soy Manuel Bahamondez, un apasionado por la tecnología y el desarrollo de software.
 
-## GitHub Status
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroz00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kuroz00" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroz00&show_icons=true&locale=en&theme=tokyonight" alt="kuroz00" />
+- 📚 Estudiante de Análisis en Sistemas Informáticos en la Universidad de Magallanes (UMAG)
+- 🎯 Enfocado en el desarrollo web y análisis de datos
+- 📈 Comprometido con el aprendizaje continuo y el crecimiento profesional
+- 🔍 En búsqueda activa de oportunidades laborales en el sector tecnológico
+
+## 💼 Contacto
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/manuel-bahamondez-32950a256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/+56945099312" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes de Programación
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 </p>
 
+### Bases de Datos
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</p>
+
+### Frameworks y Herramientas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+</p>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroz00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuroz00&show_icons=true&locale=en&theme=tokyonight" alt="Estadísticas de GitHub" />
+</div>
+
+---
+
+<p align="center">
+  <i>¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o propuestas laborales.</i>
+</p>
